@@ -1,0 +1,30 @@
+0 verbose cli /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/node /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/npm
+1 info using npm@10.8.3
+2 info using node@v20.12.0
+3 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/sugatathawale/.npmrc
+5 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/etc/npmrc
+6 verbose title npm install create-vite@latest
+7 verbose argv "install" "create-vite@latest" "--global"
+8 verbose logfile logs-max:10 dir:/Users/sugatathawale/.npm/_logs/2024-09-10T15_05_47_443Z-
+9 verbose logfile /Users/sugatathawale/.npm/_logs/2024-09-10T15_05_47_443Z-debug-0.log
+10 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache corgi:https://registry.npmjs.org/create-vite cache-miss
+13 silly logfile done cleaning log files
+14 http fetch GET 200 https://registry.npmjs.org/create-vite 149ms (cache revalidated)
+15 silly packumentCache corgi:https://registry.npmjs.org/create-vite set size:74891 disposed:false
+16 silly idealTree buildDeps
+17 silly fetch manifest create-vite@5.5.2
+18 silly packumentCache full:https://registry.npmjs.org/create-vite cache-miss
+19 http fetch GET 200 https://registry.npmjs.org/create-vite 39ms (cache revalidated)
+20 silly packumentCache full:https://registry.npmjs.org/create-vite set size:157738 disposed:false
+21 silly placeDep ROOT create-vite@5.5.2 OK for:  want: 5.5.2
+22 silly reify moves {}
+23 silly ADD node_modules/create-vite
+24 verbose cwd /Users/sugatathawale/THAPAA
+25 verbose os Darwin 23.6.0
+26 verbose node v20.12.0
+27 verbose npm  v10.8.3
+28 verbose exit 0
+29 info ok

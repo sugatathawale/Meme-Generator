@@ -1,0 +1,22 @@
+0 verbose cli /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/node /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/npm
+1 info using npm@10.8.3
+2 info using node@v20.12.0
+3 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/sugatathawale/THAPAA/.npmrc
+5 silly config load:file:/Users/sugatathawale/.npmrc
+6 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/etc/npmrc
+7 verbose title npm create vite@latest reactthapaapp --template react
+8 verbose argv "create" "vite@latest" "reactthapaapp" "--" "--template" "react"
+9 verbose logfile logs-max:10 dir:/Users/sugatathawale/.npm/_logs/2024-09-10T15_06_04_467Z-
+10 verbose logfile /Users/sugatathawale/.npm/_logs/2024-09-10T15_06_04_467Z-debug-0.log
+11 silly logfile start cleaning logs, removing 1 files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly logfile done cleaning log files
+14 http fetch GET 200 https://registry.npmjs.org/create-vite 142ms (cache revalidated)
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+16 verbose cwd /Users/sugatathawale/THAPAA
+17 verbose os Darwin 23.6.0
+18 verbose node v20.12.0
+19 verbose npm  v10.8.3
+20 verbose exit 0
+21 info ok

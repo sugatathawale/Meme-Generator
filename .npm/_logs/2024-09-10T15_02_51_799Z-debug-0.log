@@ -1,0 +1,118 @@
+0 verbose cli /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/node /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/npm
+1 info using npm@10.8.3
+2 info using node@v20.12.0
+3 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/sugatathawale/.npmrc
+5 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/etc/npmrc
+6 verbose title npm install bun
+7 verbose argv "install" "--global" "bun"
+8 verbose logfile logs-max:10 dir:/Users/sugatathawale/.npm/_logs/2024-09-10T15_02_51_799Z-
+9 verbose logfile /Users/sugatathawale/.npm/_logs/2024-09-10T15_02_51_799Z-debug-0.log
+10 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+11 silly logfile start cleaning logs, removing 1 files
+12 silly idealTree buildDeps
+13 silly fetch manifest bun@*
+14 silly packumentCache full:https://registry.npmjs.org/bun cache-miss
+15 silly logfile done cleaning log files
+16 http fetch GET 200 https://registry.npmjs.org/bun 440ms (cache updated)
+17 silly packumentCache full:https://registry.npmjs.org/bun set size:undefined disposed:false
+18 silly placeDep ROOT bun@1.1.27 OK for:  want: *
+19 silly fetch manifest @oven/bun-linux-x64@1.1.27
+20 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-linux-x64 cache-miss
+21 silly fetch manifest @oven/bun-darwin-x64@1.1.27
+22 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-darwin-x64 cache-miss
+23 silly fetch manifest @oven/bun-windows-x64@1.1.27
+24 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-windows-x64 cache-miss
+25 silly fetch manifest @oven/bun-linux-aarch64@1.1.27
+26 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-linux-aarch64 cache-miss
+27 silly fetch manifest @oven/bun-darwin-aarch64@1.1.27
+28 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-darwin-aarch64 cache-miss
+29 silly fetch manifest @oven/bun-linux-x64-baseline@1.1.27
+30 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-linux-x64-baseline cache-miss
+31 silly fetch manifest @oven/bun-darwin-x64-baseline@1.1.27
+32 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-darwin-x64-baseline cache-miss
+33 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-linux-aarch64 427ms (cache updated)
+34 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-linux-aarch64 set size:undefined disposed:false
+35 silly fetch manifest @oven/bun-windows-x64-baseline@1.1.27
+36 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-windows-x64-baseline cache-miss
+37 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-darwin-x64 437ms (cache updated)
+38 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-darwin-x64 set size:undefined disposed:false
+39 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-darwin-aarch64 455ms (cache updated)
+40 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-darwin-aarch64 set size:undefined disposed:false
+41 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-linux-x64 487ms (cache updated)
+42 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-linux-x64 set size:undefined disposed:false
+43 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-windows-x64-baseline 347ms (cache updated)
+44 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-windows-x64-baseline set size:undefined disposed:false
+45 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-windows-x64 1122ms (cache updated)
+46 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-windows-x64 set size:undefined disposed:false
+47 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-darwin-x64-baseline 1331ms (cache updated)
+48 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-darwin-x64-baseline set size:undefined disposed:false
+49 http fetch GET 200 https://registry.npmjs.org/@oven%2fbun-linux-x64-baseline 2014ms (cache updated)
+50 silly packumentCache full:https://registry.npmjs.org/@oven%2fbun-linux-x64-baseline set size:undefined disposed:false
+51 silly placeDep node_modules/bun @oven/bun-darwin-aarch64@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+52 silly placeDep node_modules/bun @oven/bun-darwin-x64@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+53 silly placeDep node_modules/bun @oven/bun-darwin-x64-baseline@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+54 silly placeDep node_modules/bun @oven/bun-linux-aarch64@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+55 silly placeDep node_modules/bun @oven/bun-linux-x64@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+56 silly placeDep node_modules/bun @oven/bun-linux-x64-baseline@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+57 silly placeDep node_modules/bun @oven/bun-windows-x64@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+58 silly placeDep node_modules/bun @oven/bun-windows-x64-baseline@1.1.27 OK for: bun@1.1.27 want: 1.1.27
+59 silly reify mark retired [
+59 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun',
+59 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/bun',
+59 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/bunx'
+59 silly reify ]
+60 silly reify moves {
+60 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun': '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/.bun-a3KSXsYk',
+60 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/bun': '/Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/.bun-76iVv4hC',
+60 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/bunx': '/Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/.bunx-8mbiF8dQ'
+60 silly reify }
+61 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-windows-x64-baseline
+62 silly reify mark deleted [
+62 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-windows-x64-baseline'
+62 silly reify ]
+63 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-windows-x64
+64 silly reify mark deleted [
+64 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-windows-x64'
+64 silly reify ]
+65 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-linux-x64-baseline
+66 silly reify mark deleted [
+66 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-linux-x64-baseline'
+66 silly reify ]
+67 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-linux-x64
+68 silly reify mark deleted [
+68 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-linux-x64'
+68 silly reify ]
+69 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-linux-aarch64
+70 silly reify mark deleted [
+70 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-linux-aarch64'
+70 silly reify ]
+71 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-darwin-x64-baseline
+72 silly reify mark deleted [
+72 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-darwin-x64-baseline'
+72 silly reify ]
+73 verbose reify failed optional dependency /Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-darwin-x64
+74 silly reify mark deleted [
+74 silly reify   '/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/bun/node_modules/@oven/bun-darwin-x64'
+74 silly reify ]
+75 silly tarball no local data for bun@https://registry.npmjs.org/bun/-/bun-1.1.27.tgz. Extracting by manifest.
+76 silly tarball no local data for @oven/bun-darwin-aarch64@https://registry.npmjs.org/@oven/bun-darwin-aarch64/-/bun-darwin-aarch64-1.1.27.tgz. Extracting by manifest.
+77 http fetch GET 200 https://registry.npmjs.org/bun/-/bun-1.1.27.tgz 40ms (cache miss)
+78 http fetch GET 200 https://registry.npmjs.org/@oven/bun-darwin-aarch64/-/bun-darwin-aarch64-1.1.27.tgz 1581ms (cache miss)
+79 info run bun@1.1.27 postinstall node_modules/bun node install.js
+80 info run bun@1.1.27 postinstall { code: 0, signal: null }
+81 silly CHANGE node_modules/bun
+82 silly ADD
+83 silly ADD
+84 silly ADD
+85 silly ADD
+86 silly ADD
+87 silly ADD
+88 silly ADD
+89 silly CHANGE node_modules/bun/node_modules/@oven/bun-darwin-aarch64
+90 verbose cwd /Users/sugatathawale/THAPAA
+91 verbose os Darwin 23.6.0
+92 verbose node v20.12.0
+93 verbose npm  v10.8.3
+94 verbose exit 0
+95 info ok

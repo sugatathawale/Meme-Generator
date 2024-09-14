@@ -1,0 +1,20 @@
+0 verbose cli /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/node /Users/sugatathawale/.nvm/versions/node/v20.12.0/bin/npm
+1 info using npm@10.8.3
+2 info using node@v20.12.0
+3 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/sugatathawale/THAPAA/reactthapaapp/.npmrc
+5 silly config load:file:/Users/sugatathawale/.npmrc
+6 silly config load:file:/Users/sugatathawale/.nvm/versions/node/v20.12.0/etc/npmrc
+7 verbose title npm cache clean
+8 verbose argv "cache" "clean" "--force"
+9 verbose logfile logs-max:10 dir:/Users/sugatathawale/.npm/_logs/2024-09-10T15_08_25_813Z-
+10 verbose logfile /Users/sugatathawale/.npm/_logs/2024-09-10T15_08_25_813Z-debug-0.log
+11 warn using --force Recommended protections disabled.
+12 silly logfile start cleaning logs, removing 1 files
+13 silly logfile done cleaning log files
+14 verbose cwd /Users/sugatathawale/THAPAA/reactthapaapp
+15 verbose os Darwin 23.6.0
+16 verbose node v20.12.0
+17 verbose npm  v10.8.3
+18 verbose exit 0
+19 info ok
